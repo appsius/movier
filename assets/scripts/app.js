@@ -16,6 +16,7 @@ const updateUI = () => {
 	}
 };
 
+// Deleting movie
 const deleteMovieHandler = (movieID) => {
 	let movieIndex = 0;
 
